@@ -1,0 +1,18 @@
+TestName=Мемоси
+Description=Сейчас Вам будут предложены вопросы о мемосах. Вы должны из предложенных нескольких вариантов ответа выбрать правильный.
+img=def.jpg
+4
+5(ти адмін пітух)
+3
+4(шаріш)
+2
+3(надєюсь ти нє натурал) 
+1
+2(ти діфєктівний моралфаг фууу)
+fNameQuests1=QuestLv1
+fNameQuests2=QuestLv2
+fNameQuests3=QuestLv3
+QuestMaxLv1=3
+QuestMaxLv2=1
+QuestMaxLv3=1
+Time=25
