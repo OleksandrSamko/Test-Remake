@@ -1,3 +1,2 @@
-English:English
-English1:English1
+memes:Мемологія
 PeterburgQuest:История Санкт-Петербурга
