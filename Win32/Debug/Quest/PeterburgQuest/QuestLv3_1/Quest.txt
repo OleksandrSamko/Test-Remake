@@ -1,0 +1,8 @@
+Ask=Відповідність:
+nAnswer=3
+2:sentens1
+1:sentens2
+3:sentens3
+1:answ1
+2:answ2 
+3:answ3

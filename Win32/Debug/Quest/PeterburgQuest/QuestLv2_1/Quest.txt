@@ -1,0 +1,8 @@
+Ask=Δεκ³λόκΰ β³δο:
+nAnswer=4
+rightAnswer=0001
+img=
+b1
+b2
+b3
+b4
